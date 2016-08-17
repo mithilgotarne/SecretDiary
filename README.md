@@ -12,6 +12,6 @@ For phpMyAdmin details for MySQL setup refer this [stackover flow post](http://s
 3. edit the conn.php file with your MySQL details.
 4. Go to https://example.com/install.php (replace example.com with your domain or localhost if hosting offline) this will create required tables in your database.
 5. Make sure you delete install.php file.
-6. Voilà you are now to use your app.
+6. Voilà you are now ready to use your app.
 
 Share it with your friends and family.
